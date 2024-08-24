@@ -16,10 +16,10 @@ sections:
           - pb-11
           - pr-11
         margin:
-          - mt-96
-          - ml-96
-          - mb-96
-          - mr-96
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
       subtitle:
         textAlign: center
     backgroundImage:
