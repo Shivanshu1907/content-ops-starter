@@ -30,16 +30,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/001.jpg
-  - type: CarouselSection
-    subtitle: This is a subtitle
-    items: []
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
