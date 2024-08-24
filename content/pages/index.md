@@ -2,24 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: CarouselSection
-    subtitle: ''
-    items: []
-    variant: dots-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/001.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -137,6 +119,24 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: CarouselSection
+    subtitle: ''
+    items: []
+    variant: dots-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/001.jpg
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
