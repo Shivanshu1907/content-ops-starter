@@ -15,6 +15,11 @@ sections:
           - pl-11
           - pb-11
           - pr-11
+        margin:
+          - mt-24
+          - ml-24
+          - mb-24
+          - mr-24
       subtitle:
         textAlign: center
     backgroundImage:
