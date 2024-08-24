@@ -14,7 +14,7 @@ sections:
           - pt-0
           - pl-11
           - pb-11
-          - pr-11
+          - pr-0
         margin:
           - mt-0
           - ml-0
