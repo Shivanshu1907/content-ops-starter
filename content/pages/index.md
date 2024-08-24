@@ -10,6 +10,11 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pt-11
+          - pl-11
+          - pb-11
+          - pr-11
       subtitle:
         textAlign: center
     backgroundImage:
